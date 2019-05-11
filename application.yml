@@ -10,6 +10,6 @@ spring:
 ---
 spring:
   profiles: test #测试环境
-   application:
+  application:
     name: microservicecloud-config-qbnp-test
-#请保存为utf8格式
+#  请保存为utf8格式
