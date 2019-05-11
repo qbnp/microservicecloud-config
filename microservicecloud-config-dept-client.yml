@@ -46,7 +46,7 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/spring_cloud2?serverTimezone=Asia/Shanghai&Unicode=true&useSSL=false
+    url: jdbc:mysql://localhost:3306/spring_cloud3?serverTimezone=Asia/Shanghai&Unicode=true&useSSL=false
     username: root
     password: 123456
     dbcp2:
